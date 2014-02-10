@@ -1,5 +1,4 @@
 #adhd-away
-=========
 ##Userscript to improve productivity
 
 ###Requirements
