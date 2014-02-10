@@ -1,19 +1,19 @@
 // ==UserScript==
-// @name           Productivity Improver
-// @namespace      userscripts.org
-// @description    Improves productivity.
-// @include        http*://reddit.com/*
-// @include        http*://*.reddit.com/*
-// @include        http*://facebook.com/*
-// @include        http*://*.facebook.com/*
-// @include        http*://facepunch.com/*
-// @include        http*://*.facepunch.com/*
-// @include        http*://tumblr.com/*
-// @include        http*://*.tumblr.com/*
-// @include        http*://youtube.com/*
-// @include        http*://*.youtube.com/*
-// @include        http*://vimeo.com/*
-// @include        http*://*.vimeo.com/*
+// @name			Productivity Improver
+// @namespace		userscripts.org
+// @description	Improves productivity.
+// @include		http*://reddit.com/*
+// @include		http*://*.reddit.com/*
+// @include		http*://facebook.com/*
+// @include		http*://*.facebook.com/*
+// @include		http*://facepunch.com/*
+// @include		http*://*.facepunch.com/*
+// @include		http*://tumblr.com/*
+// @include		http*://*.tumblr.com/*
+// @include		http*://youtube.com/*
+// @include		http*://*.youtube.com/*
+// @include		http*://vimeo.com/*
+// @include		http*://*.vimeo.com/*
 // ==/UserScript==
 
 var body = document.getElementsByTagName( "body" )[0];
