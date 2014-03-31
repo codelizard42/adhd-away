@@ -2,7 +2,7 @@
 // @name				ADHD-Away
 // @namespace			github.com/codelizard42
 // @description		Improves both productivity and sleep cycles. Based on the "Productivity Improver" userscript by SuperFancyGentleman at Userscripts.org
-// @version			0.0.2
+// @version			0.0.3
 // @updateURL		https://github.com/codelizard42/adhd-away/raw/master/adhd-away.user.js
 // @include			http*://reddit.com/*
 // @include			http*://*.reddit.com/*
